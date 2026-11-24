@@ -1,1 +1,1 @@
-# warehouse-inventory-audit
+# This Markdown file documents your Warehouse Inventory Audit & SQL Reporting Pipeline for GitHub, covering the project overview, folder structure, data-cleaning and SQL concepts demonstrated, terminal commands to run the pipeline, and a summary table of all generated output files.
